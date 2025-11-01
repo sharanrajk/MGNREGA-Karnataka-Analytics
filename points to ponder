@@ -1,0 +1,29 @@
+# 🌾 MGNREGA Karnataka Analytics Dashboard
+
+### 📌 Project Overview
+This project analyzes and visualizes **district-level performance data** of the **Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)** for **Karnataka (FY 2023–24)**.  
+It helps understand how rural employment, expenditure, and household participation vary across districts.
+
+---
+
+### 🎯 Objectives
+- Clean and process MGNREGA dataset from Government of India’s open data portal.  
+- Compute key performance indicators (KPIs) for all Karnataka districts.  
+- Visualize metrics like **Total Expenditure, Wages, Active Workers, and Average Wage Rate**.  
+- Build an **interactive analytics dashboard** using Python and Dash.  
+
+---
+
+### 🧩 Tech Stack
+| Tool / Library | Purpose |
+|----------------|----------|
+| **Python** | Core data processing |
+| **Pandas** | Data cleaning and transformation |
+| **Plotly / Dash** | Interactive visualization dashboard |
+| **Matplotlib / Seaborn** | Charts for static visuals |
+| **Power BI (optional)** | For comparative dashboard demo |
+| **Jupyter Notebook** | Data exploration and KPIs generation |
+
+---
+
+
